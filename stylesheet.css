@@ -1,0 +1,29 @@
+button{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(0, 225, 255);
+    background-color: rgba(0, 0, 255, 0.884) ;
+    opacity: 0.8;
+    border-radius: 12px;
+    margin-top: 0.5em;
+}
+
+body{
+    text-align: center;
+    font-size: 30px;
+}
+
+h1{
+    margin-top: 1.75em;
+    text-shadow: 2px 2px 4px #171bdd;
+}
+
+#count-el{
+    margin-top: 1em;
+}
+
+#save-el{
+    margin-top: 2em;
+    font-weight: bold;
+}
